@@ -1,6 +1,6 @@
-# Hey, I'm Lucas!!!!!!
+# Hey, I'm Lucas!!
 
-CS & Stats double major at the University of Toronto (St. George). Building a portfolio of projects based on my interests in R, PostgreSQL, and Power BI.
+CS & Stats double major at the University of Toronto (St. George). Building a portfolio of projects based on my interests using Statistics and Python.
 
 ## Recent work
 
